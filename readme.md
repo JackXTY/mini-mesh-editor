@@ -17,5 +17,5 @@ A GUI button "Sharp" is added. Can set selected vertex/edge/face to be sharp.
 ### Selection via ray casting
 User could select vertex/edge/faces via directly clicking the GL Window.
 
-
+-----------------
 (According to my personal approximation, it might reach 0.1% ability of Maya. What's a pity is that, I didn't and maybe will never implement the function to export an obj file.)
